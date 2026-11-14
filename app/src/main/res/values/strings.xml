@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rehan Browser</string>
+    <string name="brand_attribution">Made by Mohammad Rehan Yousuf</string>
+    <string name="vpn_notification_channel_name">WireGuard VPN Status</string>
+    <string name="vpn_notification_channel_desc">Persistent status for active WireGuard VPN tunnel</string>
+    <string name="vpn_connected_title">Rehan Browser VPN Connected</string>
+    <string name="vpn_disconnect_action">Disconnect</string>
+</resources>
